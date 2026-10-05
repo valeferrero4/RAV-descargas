@@ -103,6 +103,9 @@ dio el administrador. Después entra solo.
 
 - Sin internet podés seguir usándolo hasta **7 días**.
 - Cada cuenta se puede usar en hasta **2 computadoras**.
+- **¿Cambiás de computadora?** En la que dejás de usar, abrí RAV y tocá
+  **Cerrar sesión** (arriba a la derecha, en el Inicio): esa computadora
+  deja de ocupar un lugar y podés entrar desde la nueva.
 
 ## ¿Problemas?
 
@@ -114,7 +117,7 @@ dio el administrador. Después entra solo.
 | "RAV necesita VLC" | Instalá VLC (paso 2). En Windows, tiene que ser el de **64 bits**. |
 | "Email o contraseña incorrectos" | Revisá que estén bien escritos (sin espacios). Si no, pedile los datos al administrador. |
 | "Tu cuenta no está habilitada" o "Tu suscripción venció" | Escribile al administrador. |
-| "Ya está activada en 2 computadoras" | Pedile al administrador que libere una. |
+| "Ya está activada en 2 computadoras" | En una de las que ya no uses, abrí RAV y tocá **Cerrar sesión**. Si no la tenés más, pedile al administrador que la libere. |
 | "Hace más de 7 días que RAV no puede verificar tu cuenta" | Conectate a internet y abrí RAV de nuevo. |
 
 ## Actualizar
