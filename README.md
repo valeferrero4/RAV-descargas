@@ -27,17 +27,34 @@ Descargalo de [videolan.org](https://www.videolan.org/vlc/):
 ### Mac
 
 1. Abrí el `.dmg` y arrastrá **RAV** a **Aplicaciones**.
-2. La primera vez, macOS puede decir que la app **"está dañada"** o que
-   **"no se puede abrir"**, porque no viene de la App Store. Abrí la
-   aplicación **Terminal**, pegá esto y apretá Enter:
+2. Abrí RAV desde **Aplicaciones**.
+3. **La primera vez, macOS la bloquea** porque no viene de la App Store.
+   Es normal y se hace **una sola vez**:
+
+   **Si dice "No se abrió RAV"** (o *"Apple no pudo verificar…"*):
+   1. Tocá **Listo**. ⚠️ **No** toques "Mover al basurero".
+   2. Abrí **Ajustes del Sistema** ( → Ajustes del Sistema).
+   3. Entrá a **Privacidad y seguridad**.
+   4. Bajá hasta el final: aparece *"Se bloqueó el uso de RAV…"*.
+      Tocá **Abrir igualmente**.
+   5. Poné la contraseña de tu Mac (o tu huella) y tocá **Abrir igualmente**
+      otra vez.
+
+   Listo: desde ahora RAV abre normal.
+
+   **Si en cambio dice que RAV "está dañada"**: abrí la aplicación
+   **Terminal** (buscala con Cmd + Espacio), pegá esto y apretá Enter:
 
    ```
    xattr -dr com.apple.quarantine /Applications/RAV.app
    ```
 
    Después abrí RAV normalmente.
-3. Si macOS te pide permiso para leer **Descargas** o **Documentos**
+4. Si macOS te pide permiso para leer **Descargas** o **Documentos**
    (donde tengas los videos), decile que sí.
+
+Cada vez que instales una versión nueva puede volver a pedírtelo:
+se resuelve igual.
 
 ### Windows
 
