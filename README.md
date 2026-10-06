@@ -21,16 +21,10 @@ necesitás una cuenta habilitada: si no tenés, pedísela al administrador.
 **Acerca de esta Mac**. Si dice **Chip Apple M…**, es la primera opción;
 si dice **Procesador Intel…**, la segunda.
 
-## 2. Instalá VLC (una sola vez)
+No hace falta instalar nada más: RAV ya trae adentro todo lo que
+necesita para mostrar los videos.
 
-RAV usa VLC, un reproductor gratuito, para mostrar los videos.
-Descargalo de [videolan.org](https://www.videolan.org/vlc/):
-
-- **Mac:** elegí la versión de tu tipo de Mac y arrastrá VLC a **Aplicaciones**.
-- **Windows:** tocá la flechita al lado del botón naranja y elegí
-  **Windows 64bit**.
-
-## 3. Instalá RAV
+## 2. Instalá RAV
 
 ### En Mac
 
@@ -96,7 +90,7 @@ se resuelve con los mismos pasos.
 3. Seguí los pasos del instalador. RAV queda en el menú Inicio y, si lo
    elegís, en el Escritorio.
 
-## 4. Ingresá con tu cuenta
+## 3. Ingresá con tu cuenta
 
 La primera vez que abrís RAV te pide el **email y la contraseña** que te
 dio el administrador. Después entra solo.
@@ -114,7 +108,7 @@ dio el administrador. Después entra solo.
 | **Mac:** "No se abrió RAV" | Seguí [estos pasos](#si-en-mac-dice-no-se-abrió-rav). |
 | **Mac:** "RAV está dañada" | Usá la [solución con Terminal](#si-en-mac-dice-no-se-abrió-rav) (desplegá *"Si en cambio dice que RAV está dañada"*). |
 | **Windows:** "Windows protegió su PC" | Tocá **Más información** → **Ejecutar de todas formas**. |
-| "RAV necesita VLC" | Instalá VLC (paso 2). En Windows, tiene que ser el de **64 bits**. |
+| "RAV necesita VLC" o "RAV no pudo iniciar VLC" | Descargá de nuevo el instalador (paso 1) e instalá RAV otra vez. Si sigue, instalá VLC desde [videolan.org](https://www.videolan.org/vlc/) (en Windows, el de **64 bits**; en Mac, el de tu tipo de Mac). |
 | "Email o contraseña incorrectos" | Revisá que estén bien escritos (sin espacios). Si no, pedile los datos al administrador. |
 | "Tu cuenta no está habilitada" o "Tu suscripción venció" | Escribile al administrador. |
 | "Ya está activada en 2 computadoras" | En una de las que ya no uses, abrí RAV y tocá **Cerrar sesión**. Si no la tenés más, pedile al administrador que la libere. |
